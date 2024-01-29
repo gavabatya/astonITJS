@@ -3,3 +3,7 @@ function helloWorld() {
 }
 console.log(helloWorld());
 //2
+function sayMyName(name) {
+  return `Hello ${name}`;
+}
+console.log(sayMyName("Aston"));
