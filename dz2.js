@@ -105,4 +105,3 @@ const reverseStr2 = (str) => {
     str.split('').forEach(item => {newStr = item + newStr })
 return newStr
 };
-
